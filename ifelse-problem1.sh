@@ -1,3 +1,6 @@
+#Write a program that reads 5 Random 3 Digit values and then outputs the minimum
+#and the maximum value
+
 #!/bin/bash
 read -p "Enter a 1st number:"  a
 maximum=$a

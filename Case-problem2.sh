@@ -1,3 +1,6 @@
+                   #With Case statement
+#Read a Number and Display the week day (Sunday, Monday,...)
+
 #!/bin/bash
 echo  "Enter a number: "
 read number

@@ -1,3 +1,7 @@
+
+#Write a program that takes day and month from the command line and prints true if
+#day of month is between March 20 and June 20, false otherwise.
+
 #!/bin/bash
 month=`date +%d-%m-%y |  awk -F '-' '{print $2}'`
 echo $month

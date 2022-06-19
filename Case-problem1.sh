@@ -1,3 +1,6 @@
+                     #case Statment
+#Read a single digit number and write the number in word
+
 #!/bin/bash
 FirstNumber=0
 SecondNumber=1
